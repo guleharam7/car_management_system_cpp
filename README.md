@@ -59,3 +59,23 @@ This project was developed as part of a group assignment for the Programming Fun
 ## License
 
 This project is intended for educational purposes.
+
+## Application Preview
+
+### Login
+![Login](screenshots/login.png)
+
+### Main Menu
+![Main Menu](screenshots/menu.png)
+
+### Add Car
+![Add Car](screenshots/add-car.png)
+
+### Display Cars
+![Display Cars](screenshots/display-cars.png)
+
+### Search Car
+![Search Car](screenshots/search-car.png)
+
+### Compare Cars
+![Compare Cars](screenshots/compare-cars.png)
