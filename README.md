@@ -72,7 +72,7 @@ This project is intended for educational purposes.
 ![Add Car](screenshots/add-car.png)
 
 ### Display Cars
-![Display Cars](screenshots/display-cars.png)
+![Display Cars](screenshots/display-car.png)
 
 ### Search Car
 ![Search Car](screenshots/search-car.png)
